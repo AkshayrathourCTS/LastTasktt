@@ -9,8 +9,10 @@ The language has evolved significantly over the years, with modern standards suc
 
 C++ is supported by a vibrant global community of developers, educators, and enthusiasts. Its extensive documentation, libraries, and frameworks make it a robust choice for building reliable and scalable software. The language is often considered a rite of passage for many programmers due to its complexity and depth, which demand a solid understanding of computer science fundamentals. For those willing to put in the effort, mastering C++ unlocks a wide array of opportunities, from developing cutting-edge software to contributing to open-source projects that shape the tech landscape.
 
-# the links for related things
+ # the links for related things
 - [cpp file](cpp.md)
-- [c# file](c#.md)
+- [cSharp file](cSharp.md)
 - [java file](java.md)
-- [Main readme file](LastTasktt\README.md)
+- [python](pyhton.md)
+- [ruby](ruby.md)
+- [Main readme file](../README.md)
