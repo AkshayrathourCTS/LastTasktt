@@ -9,8 +9,10 @@ Java's versatility makes it ideal for a wide range of applications, including we
 
 Over the years, Java has built a strong, vibrant community of developers and organizations that continuously contribute to its ecosystem. Regular updates ensure that Java remains relevant and adapts to evolving programming needs. With a wealth of resources, tutorials, and documentation available online, Java continues to be a language of choice for millions of programmers. Its ability to seamlessly combine simplicity, power, and cross-platform compatibility makes it indispensable in the world of software development. Let me know if you'd like to dive deeper into any of Java's features.
 
-# the links for related things
+ # the links for related things
 - [cpp file](cpp.md)
-- [c# file](c#.md)
+- [cSharp file](cSharp.md)
 - [java file](java.md)
-- [Main readme file](LastTasktt\README.md)
+- [python](pyhton.md)
+- [ruby](ruby.md)
+- [Main readme file](../README.md)

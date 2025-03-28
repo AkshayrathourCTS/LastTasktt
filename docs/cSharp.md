@@ -9,8 +9,10 @@ In the gaming industry, C# is widely used due to its compatibility with the Unit
 
 As technology continues to evolve, C# has kept pace by introducing modern features and updates through its language specifications. Versions like C# 8.0 and C# 9.0 have introduced asynchronous programming, nullable reference types, and pattern matching, which further enhance developer productivity. Supported by a strong community and backed by Microsoft, C# remains a robust and versatile language with applications in diverse industries. Whether you're creating innovative games or mission-critical enterprise software, C# offers the tools and flexibility to bring your ideas to life. Let me know if you'd like to explore more about its features or usage!
 
-# the links for related things
+ # the links for related things
 - [cpp file](cpp.md)
-- [c# file](c#.md)
+- [cSharp file](cSharp.md)
 - [java file](java.md)
-- [Main readme file](LastTasktt\README.md)
+- [python](pyhton.md)
+- [ruby](ruby.md)
+- [Main readme file](../README.md)
